@@ -1,0 +1,10 @@
+flask==3.0.0
+flask-login==0.6.3
+flask-sqlalchemy==3.1.1
+anthropic==0.34.0
+python-docx==1.1.0
+werkzeug==3.0.1
+stripe==7.8.0
+pillow==10.2.0
+sqlalchemy==2.0.25
+gunicorn==21.2.0
